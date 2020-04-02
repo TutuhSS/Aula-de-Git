@@ -1,2 +1,3 @@
 Entendendo o HEAD
 dflgjnidfjgniojdfngoidjfgnoudfjn
+Esta linha foi modificda no ramo Master
